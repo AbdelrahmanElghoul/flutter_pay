@@ -28,7 +28,7 @@ android {
     compileSdk 35
 
     kotlinOptions {
-        jvmTarget = JavaVersion.VERSION_18
+        jvmTarget = JavaVersion.VERSION_1_8
     }
 
     sourceSets {
